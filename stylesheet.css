@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'HappyZcool';
+    src: url('HappyZcool.eot');
+    src: url('HappyZcool.eot?#iefix') format('embedded-opentype'),
+        url('HappyZcool.woff') format('woff'),
+        url('HappyZcool.ttf') format('truetype'),
+        url('HappyZcool.svg#HappyZcool') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
